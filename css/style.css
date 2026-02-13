@@ -19,6 +19,7 @@ body {
 button {
   outline: none;
   border: none;
+  cursor: pointer;
 }
 
 .hero_container {
